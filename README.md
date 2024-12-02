@@ -27,7 +27,7 @@ Run `npm dev`/`npm run dev` and navigate to the prompted URL to see your app.
 ## Demo
 Please click the below link for quick demo invoking the application.
 
-https://drive.google.com/file/d/1HJgq0sIeq2gZsm90fBX8N9GUlT9VO8XB/view
+
 
 ## License
 MIT
