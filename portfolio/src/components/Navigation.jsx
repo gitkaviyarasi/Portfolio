@@ -7,8 +7,9 @@ function Navigation() {
   return (
     <>
     <h1>Kaviyarasi Krishnan</h1>
-    <nav class="navbar ">
+    <nav class="navbar">
     <ul >
+      
       <li className="nav-item">
         <Link
           to="/About"
