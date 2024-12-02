@@ -4,6 +4,10 @@ import '../style/Portfolio.css';
 import Readmegen from '../assets/Readmegen.png';
 import Weatherapp from '../assets/WeatherApp.png';
 import EmployeeTracker from '../assets/EmployeeTracker.png';
+import Project5 from '../assets/project5.jpg';
+import Project6 from '../assets/project6.jpg';
+import Apollo from '../assets/ApolloGreek.jpg';
+
 const projectData = [
   {
     title: 'Readme Generator',
@@ -14,6 +18,7 @@ const projectData = [
     title: 'Weather Dashboard',
     image:Weatherapp ,
     githubLink: 'https://github.com/gitkaviyarasi/weatherapp',
+    deployedLink: 'https://weatherforecast-i0zm.onrender.com/',
   },
   {
     title: 'Employee Tracker',
@@ -21,22 +26,22 @@ const projectData = [
     githubLink: 'https://github.com/gitkaviyarasi/employeeDetailsTracker',
   },
   {
-    title: 'Project 4',
-    image: 'https://via.placeholder.com/300',
-    deployedLink: 'https://example.com/project4',
-    githubLink: 'https://github.com/user/project4',
+    title: 'Apollo Greek Tavern',
+    image: Apollo,
+    deployedLink: 'https://gitkaviyarasi.github.io/apollogreektavern/',
+    githubLink: 'https://github.com/gitkaviyarasi/apollogreektavern',
   },
   {
     title: 'Project 5',
-    image: 'https://via.placeholder.com/300',
+    image: Project5,
     deployedLink: 'https://example.com/project5',
-    githubLink: 'https://github.com/user/project5',
+    githubLink: 'https://github.com/gitkaviyarasi',
   },
   {
     title: 'Project 6',
-    image: 'https://via.placeholder.com/300',
+    image: Project6,
     deployedLink: 'https://example.com/project6',
-    githubLink: 'https://github.com/user/project6',
+    githubLink: 'https://github.com/gitkaviyarasi',
   },
 ];
 

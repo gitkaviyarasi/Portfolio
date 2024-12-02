@@ -8,7 +8,7 @@ function Project({ title, image, deployedLink, githubLink }) {
     <div className="overlay">
       <h3>{title}</h3>
       <a href={deployedLink} target="_blank" rel="noopener noreferrer">
-        Live Demo
+        Deployed Site
       </a>
       <a href={githubLink} target="_blank" rel="noopener noreferrer" style={{ marginTop: '10px' }}>
         GitHub Repo
