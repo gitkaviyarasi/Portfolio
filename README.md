@@ -6,6 +6,7 @@ To create a single page application for Portfolio using React.
   - [Installation](#installation)
   - [Usage](#usage)
   - [Demo](#demo)
+  - [ScreenShots](#screenshots)
   - [License](#license)
   - [Questions](#questions)
 
@@ -26,8 +27,14 @@ Run `npm dev`/`npm run dev` and navigate to the prompted URL to see your app.
 
 ## Demo
 Please click the below link for quick demo invoking the application.
+ https://curious-crisp-c751ba.netlify.app/About
 
-
+## ScreenShots
+The following image demonstrates the web application's appearance:
+![Contact](./portfolio/src/assets/screenshots/SCcontact.png)
+![Home](./portfolio/src/assets/screenshots/ScHomePage.png)
+![Portfolio](./portfolio/src/assets/screenshots/SCPortfolio.png)
+![resume](./portfolio/src/assets/screenshots/ScResume.png)
 
 ## License
 MIT
